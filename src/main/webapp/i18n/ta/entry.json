@@ -1,0 +1,25 @@
+{
+    "blogApp": {
+        "entry": {
+            "home": {
+                "title": "Entries",
+                "createLabel": "Entry-ஐ உருவாக்கு",
+                "createOrEditLabel": "Entry -ஐ மாற்று (அ) உருவாக்கு"
+            },
+            "created": "Entry புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+            "updated": "Entry மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+            "deleted": "A Entry நீக்கப்பட்டது, அடையாளம {{ param }}",
+            "delete": {
+                "question": "நீக்குவதற்கு உறுதி செய் Entry {{ id }}?"
+            },
+            "detail": {
+                "title": "Entry"
+            },
+            "title": "Title",
+            "content": "Content",
+            "date": "Date",
+            "blog": "Blog",
+            "tag": "Tag"
+        }
+    }
+}
